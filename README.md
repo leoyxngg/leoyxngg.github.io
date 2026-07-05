@@ -1,5 +1,5 @@
-# My personal website
+# Personal Website
 
 Source code for my personal website.
 
-🌐 https://leoyxngg/github/io
+🌐 https://leoyxngg.github.io
